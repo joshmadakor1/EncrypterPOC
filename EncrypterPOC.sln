@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncrypterPOC", "WindowsFormsApp1\EncrypterPOC.csproj", "{05C139EC-1F59-4BDF-8DEC-1D7100C6E4CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05C139EC-1F59-4BDF-8DEC-1D7100C6E4CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05C139EC-1F59-4BDF-8DEC-1D7100C6E4CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05C139EC-1F59-4BDF-8DEC-1D7100C6E4CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05C139EC-1F59-4BDF-8DEC-1D7100C6E4CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5E2A1A45-CBC8-4287-88EA-199F36FA2BF9}
+	EndGlobalSection
+EndGlobal
